@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Volodymyr Miz"
+    "text": "LTS2"
   },
   "text": {
     "more": "Network of Twitter users spreading information about controversial topics",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "community",
     "hoverBehavior": "default"
   },
   "informationPanel": {
