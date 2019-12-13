@@ -1,8 +1,10 @@
 # Fake news in social media. Network perspective
 IMI project studying fake news in Switzerland.
 
+In this project, we focus on the networks to understand how fake news are spreaded. We study user networks and filter bubbles (the effect when users are trapped in an information bubble which prevents them from being exposed to alternative opinions). Click on the links to explore the network view.
+
 ## 1. Twitter
-Here, we extract networks of Twitter accounts spreading information about controvercial topics. Click on the links to explore the network view.
+Here, we extract networks of Twitter accounts spreading information about controvercial topics. 
 
 * [General controvercial topics](https://mizvol.github.io/imi-nets/network/)
 * [Conspiracy](https://mizvol.github.io/imi-nets/network-twitter-conspiracy)
