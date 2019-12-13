@@ -19,7 +19,7 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 ### 2.1 Sources of information
 
 #### 2.1.2 Climate change
-<details><summary>Seed videos</summary>
+<details><summary>List of pre-selected seed videos</summary>
   <p><a href="https://www.youtube.com/watch?v=R6eywXdssMw">Youtube video</a></p>
   <p><a href="https://www.youtube.com/watch?v=T4LVXCCmIKA">Youtube video</a></p>
   <p><a href="https://www.youtube.com/watch?v=iK3G8wqqp_k">Youtube video</a></p>
@@ -45,7 +45,7 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 ### 2.2 Potential fake news channels
 
 #### 2.2.2 Climate change. Fake news
-<details><summary>Seed videos</summary>
+<details><summary>List of pre-selected seed videos</summary>
   <p><a href="https://www.youtube.com/watch?v=zBLTDscToOo">Youtube video</a></p>
   <p><a href="https://www.youtube.com/watch?v=I-Du-AqQTQU">Youtube video</a></p>
   <p><a href="https://www.youtube.com/watch?v=y3MYKWEPnus">Youtube video</a></p>
@@ -60,7 +60,7 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 #### 2.2.1 Chemtrails. Fake news
 These videos are not very popular, so very few users comment on them. Therefore, the network is very small and doesn't bring any interesting insights. We don't extract users network for this topic.
 
-<details><summary>Seed videos</summary>
+<details><summary>List of pre-selected seed videos</summary>
     <p><a href="https://www.youtube.com/watch?v=EdLHtJzxCQE">Youtube video</a></p>
     <p><a href="https://www.youtube.com/watch?v=4DmcsETVzKs">Youtube video</a></p>
     <p><a href="https://www.youtube.com/watch?v=IeXL--VBlYw">Youtube video</a></p>
