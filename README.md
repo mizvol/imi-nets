@@ -35,4 +35,4 @@ These videos are not very popular, so very few users comment on them. Therefore,
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
 
-*Youtube data is collected using [Youtube Data Tools](https://github.com/bernorieder/YouTube-Data-Tools) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/)
+**Youtube data is collected using [Youtube Data Tools](https://github.com/bernorieder/YouTube-Data-Tools) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/)*
