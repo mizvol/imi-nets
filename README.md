@@ -20,6 +20,7 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 
 #### 2.1.2 Climate change
 <details><summary>Seed videos</summary>
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R6eywXdssMw/0.jpg)](https://www.youtube.com/watch?v=R6eywXdssMw)
 https://www.youtube.com/watch?v=R6eywXdssMw
 https://www.youtube.com/watch?v=T4LVXCCmIKA
 https://www.youtube.com/watch?v=iK3G8wqqp_k
