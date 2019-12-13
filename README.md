@@ -20,21 +20,21 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 
 #### 2.1.2 Climate change
 <details><summary>Seed videos</summary>
-  <p><a href="https://www.youtube.com/embed/R6eywXdssMw">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/T4LVXCCmIKA">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/iK3G8wqqp_k">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/szho74EKGiM">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/q3DM5TZ3FG4">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/tPjHLRYZiHM">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/OQBcrKqyHJI">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/eytaVwARSmU">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/TpbZYwH0X90">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/KGdVCs5E8vE">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/YX_RW5iYJcQ">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/PLeVCOn7khk">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/fS5HhcbyjKc">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/W9ktHsL_dzE">Youtube video</a></p>
-  <p><a href="https://www.youtube.com/embed/zBLTDscToOo">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=R6eywXdssMw">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=T4LVXCCmIKA">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=iK3G8wqqp_k">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=szho74EKGiM">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=q3DM5TZ3FG4">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=tPjHLRYZiHM">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=OQBcrKqyHJI">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=eytaVwARSmU">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=TpbZYwH0X90">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=KGdVCs5E8vE">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=YX_RW5iYJcQ">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=PLeVCOn7khk">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=fS5HhcbyjKc">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=W9ktHsL_dzE">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=zBLTDscToOo">Youtube video</a></p>
 </details>
 
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
