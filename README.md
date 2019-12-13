@@ -46,12 +46,33 @@ https://www.youtube.com/watch?v=zBLTDscToOo
 ### 2.2 Potential fake news channels
 
 #### 2.2.2 Climate change. Fake news
+<details><summary>Seed videos</summary>
+https://www.youtube.com/watch?v=zBLTDscToOo
+https://www.youtube.com/watch?v=I-Du-AqQTQU
+https://www.youtube.com/watch?v=y3MYKWEPnus
+https://www.youtube.com/watch?v=QppDqoF-ixk
+https://www.youtube.com/watch?v=IkiI7wkm33Q
+</details>
+
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-climate-fake/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-climate-fake/)
 * [Users comment network](https://mizvol.github.io/imi-nets/youtube/youtube-users-comments-climate-fake/)
 
 #### 2.2.1 Chemtrails. Fake news
 These videos are not very popular, so very few users comment on them. Therefore, the network is very small and doesn't bring any interesting insights. We don't extract users network for this topic.
+
+<details><summary>Seed videos</summary>
+https://www.youtube.com/watch?v=EdLHtJzxCQE
+https://www.youtube.com/watch?v=4DmcsETVzKs
+https://www.youtube.com/watch?v=IeXL--VBlYw
+https://www.youtube.com/watch?v=0R-C3O4OwhY
+https://www.youtube.com/watch?v=8MzshxsVxUg
+https://www.youtube.com/watch?v=quWrSkTCEvc
+https://www.youtube.com/watch?v=Q7BzNBfX3fU
+https://www.youtube.com/watch?v=UOhJt72t7YI
+https://www.youtube.com/watch?v=9hAULB7Qsac
+</details>
+
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
 
