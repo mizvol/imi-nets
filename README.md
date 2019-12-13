@@ -15,17 +15,17 @@ First, we extract networks of videos, users, and channels. Two videos are connec
 ### 2.1 Sources of information
 
 #### 2.1.2 Climate change
-* [Channels network. Climate change. Sources](https://mizvol.github.io/imi-nets/youtube/youtube-channels-diffuseurs-climate/)
-* [Video network. Climate change. Sources](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
+* [Featured channels network. Climate change. Sources](https://mizvol.github.io/imi-nets/youtube/youtube-channels-diffuseurs-climate/)
+* [Video recommendation network. Climate change. Sources](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
 
 ### 2.2 Potential fake news channels
 
 #### 2.2.2 Climate change. Fake news
-* [Videos network. Climate change. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-videos-climate-fake/)
-* [Channels network. Climate change. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-channels-climate-fake/)
+* [Video recommendation network. Climate change. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-videos-climate-fake/)
+* [Featured channels network. Climate change. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-channels-climate-fake/)
 * [Users network. Climate change. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-users-comments-climate-fake/)
 
 #### 2.2.1 Chemtrails. Fake news
 These videos are not very popular, so very few users comment on them. Therefore, the network is very small and doesn't bring any interesting insights. We don't extract users network for this topic.
-* [Channels network. Chemtrails. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
-* [Videos network. Chemtrails. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
+* [Featured channels network. Chemtrails. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
+* [Video recommendation network. Chemtrails. Fake news](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
