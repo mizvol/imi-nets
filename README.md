@@ -21,6 +21,7 @@ First, we extract networks of videos, users, and channels. Two videos are connec
 #### 2.1.2 Climate change
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-diffuseurs-climate/)
+* [Users comment network](https://mizvol.github.io/imi-nets/youtube/youtube-users-comments-climate-sources/index.html)
 
 ### 2.2 Potential fake news channels
 
