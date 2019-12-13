@@ -19,9 +19,29 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 ### 2.1 Sources of information
 
 #### 2.1.2 Climate change
+<details><summary>Seed videos</summary>
+https://www.youtube.com/watch?v=R6eywXdssMw
+https://www.youtube.com/watch?v=T4LVXCCmIKA
+https://www.youtube.com/watch?v=iK3G8wqqp_k
+https://www.youtube.com/watch?v=K01MnnOV-u4
+https://www.youtube.com/watch?v=szho74EKGiM
+https://www.youtube.com/watch?v=q3DM5TZ3FG4
+https://www.youtube.com/watch?v=tPjHLRYZiHM
+https://www.youtube.com/watch?v=OQBcrKqyHJI
+https://www.youtube.com/watch?v=eytaVwARSmU
+https://www.youtube.com/watch?v=TpbZYwH0X90
+https://www.youtube.com/watch?v=KGdVCs5E8vE
+https://www.youtube.com/watch?v=YX_RW5iYJcQ
+https://www.youtube.com/watch?v=PLeVCOn7khk
+https://www.youtube.com/watch?v=fS5HhcbyjKc
+https://www.youtube.com/watch?v=W9ktHsL_dzE
+https://www.youtube.com/watch?v=zBLTDscToOo
+</details>
+
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-diffuseurs-climate/)
 * [Users comment network](https://mizvol.github.io/imi-nets/youtube/youtube-users-comments-climate-sources/index.html)
+
 
 ### 2.2 Potential fake news channels
 
