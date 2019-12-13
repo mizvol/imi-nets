@@ -1,5 +1,5 @@
 # Fake news in social media. Network perspective
-IMI project studying fake news in Switzerland.
+IMI project studying fake news exposure in Switzerland (in French, German, and Italian).
 
 In this project, we focus on the networks to understand how fake news are spreaded. We study user networks and filter bubbles (the effect when users are trapped in a community (like in a bubble), which prevents them from being exposed to alternative opinions). 
 
