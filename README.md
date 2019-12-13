@@ -14,7 +14,7 @@ Here, we extract networks of Twitter accounts spreading information about contro
 ## 2. Youtube*
 Here, we study various Youtube networks. We have two lists of videos. One contains videos about controvercial topics. We call them sources of information. The other has videos that were identified as fake by an expert. 
 
-First, we extract networks of videos, users, and channels. Two videos are connected if Youtube recommends watching one video after another. Two channels are connected if they feature each other or share a video. Two users are connected if they interact in the comment section.
+First, we extract networks of **videos, users, and channels**. Two **videos** are connected if Youtube recommends watching one video after another. Two **channels** are connected if they feature each other or share a video. Two **users** are connected if they interact in the comment section.
 
 ### 2.1 Sources of information
 
