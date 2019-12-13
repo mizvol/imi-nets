@@ -5,6 +5,8 @@ In this project, we focus on the networks to understand how fake news are spread
 
 You can click on the links below to explore the network view of the data we extracted from social media.
 
+![Twitter network screenshot](https://raw.githubusercontent.com/mizvol/imi-nets/master/Twitter-white.png)
+
 ## 1. Twitter
 Here, we extract networks of Twitter accounts spreading information about controvercial topics. 
 
