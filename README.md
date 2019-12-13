@@ -15,8 +15,8 @@ First, we extract networks of videos, users, and channels. Two videos are connec
 ### 2.1 Sources of information
 
 #### 2.1.2 Climate change
-* [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-diffuseurs-climate/)
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
+* [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-diffuseurs-climate/)
 
 ### 2.2 Potential fake news channels
 
@@ -27,5 +27,5 @@ First, we extract networks of videos, users, and channels. Two videos are connec
 
 #### 2.2.1 Chemtrails. Fake news
 These videos are not very popular, so very few users comment on them. Therefore, the network is very small and doesn't bring any interesting insights. We don't extract users network for this topic.
-* [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
+* [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
