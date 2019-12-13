@@ -12,9 +12,9 @@ Here, we extract networks of Twitter accounts spreading information about contro
 * [Conspiracy](https://mizvol.github.io/imi-nets/network-twitter-conspiracy)
 
 ## 2. Youtube*
-Here, we study various youtube networks. We have two lists of videos. One contains videos about controvercial topics. We call them sources of information. The other has videos that were identified as fake by an expert. 
+Here, we study various Youtube networks. We have two lists of videos. One contains videos about controvercial topics. We call them sources of information. The other has videos that were identified as fake by an expert. 
 
-First, we extract networks of videos, users, and channels. Two videos are connected if YouTube recommends watching one video after another. Two channels are connected if they feature each other or share a video. Two users are connected if they interact in the comment section.
+First, we extract networks of videos, users, and channels. Two videos are connected if Youtube recommends watching one video after another. Two channels are connected if they feature each other or share a video. Two users are connected if they interact in the comment section.
 
 ### 2.1 Sources of information
 
@@ -34,4 +34,4 @@ These videos are not very popular, so very few users comment on them. Therefore,
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-haarp/)
 
-*YouTube data is collected using [YouTube Data Tools](https://github.com/bernorieder/YouTube-Data-Tools) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/)
+*Youtube data is collected using [Youtube Data Tools](https://github.com/bernorieder/YouTube-Data-Tools) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/)
