@@ -23,7 +23,7 @@ First, we extract networks of videos, users, and channels. Two videos are connec
 #### 2.2.2 Climate change. Fake news
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-climate-fake/)
 * [Featured channels network](https://mizvol.github.io/imi-nets/youtube/youtube-channels-climate-fake/)
-* [Users network](https://mizvol.github.io/imi-nets/youtube/youtube-users-comments-climate-fake/)
+* [Users comment network](https://mizvol.github.io/imi-nets/youtube/youtube-users-comments-climate-fake/)
 
 #### 2.2.1 Chemtrails. Fake news
 These videos are not very popular, so very few users comment on them. Therefore, the network is very small and doesn't bring any interesting insights. We don't extract users network for this topic.
