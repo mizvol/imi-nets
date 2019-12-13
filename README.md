@@ -20,23 +20,21 @@ First, we extract networks of **videos, users, and channels**. Two **videos** ar
 
 #### 2.1.2 Climate change
 <details><summary>Seed videos</summary>
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R6eywXdssMw/0.jpg)](https://www.youtube.com/watch?v=R6eywXdssMw)
-https://www.youtube.com/watch?v=R6eywXdssMw
-https://www.youtube.com/watch?v=T4LVXCCmIKA
-https://www.youtube.com/watch?v=iK3G8wqqp_k
-https://www.youtube.com/watch?v=K01MnnOV-u4
-https://www.youtube.com/watch?v=szho74EKGiM
-https://www.youtube.com/watch?v=q3DM5TZ3FG4
-https://www.youtube.com/watch?v=tPjHLRYZiHM
-https://www.youtube.com/watch?v=OQBcrKqyHJI
-https://www.youtube.com/watch?v=eytaVwARSmU
-https://www.youtube.com/watch?v=TpbZYwH0X90
-https://www.youtube.com/watch?v=KGdVCs5E8vE
-https://www.youtube.com/watch?v=YX_RW5iYJcQ
-https://www.youtube.com/watch?v=PLeVCOn7khk
-https://www.youtube.com/watch?v=fS5HhcbyjKc
-https://www.youtube.com/watch?v=W9ktHsL_dzE
-https://www.youtube.com/watch?v=zBLTDscToOo
+  <p><a href="https://www.youtube.com/embed/R6eywXdssMw">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/T4LVXCCmIKA">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/iK3G8wqqp_k">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/szho74EKGiM">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/q3DM5TZ3FG4">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/tPjHLRYZiHM">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/OQBcrKqyHJI">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/eytaVwARSmU">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/TpbZYwH0X90">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/KGdVCs5E8vE">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/YX_RW5iYJcQ">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/PLeVCOn7khk">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/fS5HhcbyjKc">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/W9ktHsL_dzE">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/embed/zBLTDscToOo">Youtube video</a></p>
 </details>
 
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-diffuseurs-climate/)
@@ -48,11 +46,11 @@ https://www.youtube.com/watch?v=zBLTDscToOo
 
 #### 2.2.2 Climate change. Fake news
 <details><summary>Seed videos</summary>
-https://www.youtube.com/watch?v=zBLTDscToOo
-https://www.youtube.com/watch?v=I-Du-AqQTQU
-https://www.youtube.com/watch?v=y3MYKWEPnus
-https://www.youtube.com/watch?v=QppDqoF-ixk
-https://www.youtube.com/watch?v=IkiI7wkm33Q
+  <p><a href="https://www.youtube.com/watch?v=zBLTDscToOo">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=I-Du-AqQTQU">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=y3MYKWEPnus">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=QppDqoF-ixk">Youtube video</a></p>
+  <p><a href="https://www.youtube.com/watch?v=IkiI7wkm33Q">Youtube video</a></p>
 </details>
 
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-climate-fake/)
@@ -63,15 +61,15 @@ https://www.youtube.com/watch?v=IkiI7wkm33Q
 These videos are not very popular, so very few users comment on them. Therefore, the network is very small and doesn't bring any interesting insights. We don't extract users network for this topic.
 
 <details><summary>Seed videos</summary>
-https://www.youtube.com/watch?v=EdLHtJzxCQE
-https://www.youtube.com/watch?v=4DmcsETVzKs
-https://www.youtube.com/watch?v=IeXL--VBlYw
-https://www.youtube.com/watch?v=0R-C3O4OwhY
-https://www.youtube.com/watch?v=8MzshxsVxUg
-https://www.youtube.com/watch?v=quWrSkTCEvc
-https://www.youtube.com/watch?v=Q7BzNBfX3fU
-https://www.youtube.com/watch?v=UOhJt72t7YI
-https://www.youtube.com/watch?v=9hAULB7Qsac
+    <p><a href="https://www.youtube.com/watch?v=EdLHtJzxCQE">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=4DmcsETVzKs">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=IeXL--VBlYw">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=0R-C3O4OwhY">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=8MzshxsVxUg">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=quWrSkTCEvc">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=Q7BzNBfX3fU">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=UOhJt72t7YI">Youtube video</a></p>
+    <p><a href="https://www.youtube.com/watch?v=9hAULB7Qsac">Youtube video</a></p>
 </details>
 
 * [Video recommendation network](https://mizvol.github.io/imi-nets/youtube/youtube-videos-haarp/)
