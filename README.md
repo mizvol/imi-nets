@@ -12,6 +12,7 @@ Here, we extract networks of Twitter accounts spreading information about contro
 
 * [General controvercial topics](https://mizvol.github.io/imi-nets/network/)
 * [Conspiracy](https://mizvol.github.io/imi-nets/network-twitter-conspiracy)
+* [Hierarchy](https://mizvol.github.io/imi-nets/twitter-hierarchy/). Communities discussing controvercial topics are less hierarchical.
 
 ## 2. Youtube*
 Here, we study various Youtube networks. We have two lists of videos. One contains videos about controvercial topics. We call them sources of information. The other has videos that were identified as fake by an expert. 
